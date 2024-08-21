@@ -18,5 +18,4 @@ Can update books
 thanks
 
 ## Basic implemention 
-
-![Video](https://drive.google.com/file/d/1O7zpiALi3eElGpfpKlWT0N7eoxkP0Lm6/view)
+[Video](https://drive.google.com/file/d/1O7zpiALi3eElGpfpKlWT0N7eoxkP0Lm6/view)
